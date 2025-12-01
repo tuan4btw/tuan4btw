@@ -28,7 +28,7 @@
 
 ## 📫 Let's Connect
 📩 Email: [tuananazakcay1@gmail.com](mailto:tuananazakcay1@gmail.com)  
-💼 [LinkedIn]([www.linkedin.com/in/tuananazakçay](https://www.linkedin.com/in/tuananazak%C3%A7ay/))
+💼 [LinkedIn](https://www.linkedin.com/in/tuananazak%C3%A7ay/)
 
 
 <p align="center"><i>I dream of starting my own business one day..</i></p>
