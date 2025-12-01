@@ -1,4 +1,4 @@
-<h1 align="center">## 🐱✨ Hi, I'm Tuana!</h1>
+<h1 align="center">🐱✨ Hi, I'm Tuana!</h1>
 
 <p algin="center"><i>🔆 A determined and imaginative young developer who is ready to shine with her creative ideas in both software and design.</i></br>🎓 I'm a first-year computer programming student at Manisa Celal Bayar University.</p></br>
 
@@ -28,7 +28,7 @@
 
 ## 📫 Let's Connect
 📩 Email: [tuananazakcay1@gmail.com](mailto:tuananazakcay1@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/tuananazak%C3%A7ay/)
+💼 [LinkedIn](https://www.linkedin.com/in/tuananazak%C3%A7ay/) 
 
 
 <p align="center"><i>I dream of starting my own business one day..</i></p>
